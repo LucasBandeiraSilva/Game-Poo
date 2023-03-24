@@ -1,5 +1,6 @@
 package jogo;
 
-public interface BolaDeFogo {
-    
+public class BolaDeFogo  {
+
+   
 }

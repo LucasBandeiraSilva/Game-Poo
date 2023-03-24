@@ -1,8 +1,7 @@
 package jogo;
 
-public class Jogador {
+public  abstract class Jogador {
     private String nome;
-
     private int xp = 0;
     private int hp = 100;
     private boolean envenenado = false;

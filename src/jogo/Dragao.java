@@ -1,5 +1,6 @@
 package jogo;
 
-public class Dragao {
-    
+public class Dragao{
+
 }
+    
