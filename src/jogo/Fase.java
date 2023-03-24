@@ -1,6 +1,6 @@
 package jogo;
 
-public class Teste {
+public class Fase {
     public static void main(String[] args) {
         /*
          * var jogador = new Jogador("João");
